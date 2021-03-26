@@ -1,0 +1,13 @@
+#Jupyter notebook
+.ipynb_checkpoints
+
+
+*.pyc
+
+#api keys:
+api.keys.py
+key.js
+
+# Flask stuff:
+instance/
+.webassets-cache
